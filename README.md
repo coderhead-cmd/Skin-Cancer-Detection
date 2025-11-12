@@ -1,9 +1,8 @@
 # Automated Diagnosis of Skin Cancer Using Deep Learning
 
 ## Overview
-
-This repository presents a deep learning–based approach for the automated diagnosis of skin cancer using dermoscopic images. The project utilizes a ResNet50 convolutional neural network (CNN) architecture trained on the HAM10000 dataset to classify various types of skin lesions, including both benign and malignant categories.  
-The goal is to develop a reliable computer-aided diagnostic (CAD) system that can assist dermatologists in early detection of skin cancer, enhancing diagnostic accuracy and reducing the workload in clinical environments.
+This project implements a deep learning–based approach for automated skin cancer detection using dermoscopic images. Built on the ResNet50 CNN architecture and trained with the HAM10000 dataset, it classifies various skin lesions as benign or malignant with high accuracy. The model leverages transfer learning to identify subtle visual patterns in skin textures and pigmentation that indicate cancerous changes.
+By integrating robust preprocessing, augmentation, and fine-tuning, the system demonstrates strong performance and reliability. This work aims to support dermatologists with a computer-aided diagnostic tool that enhances early detection, reduces manual effort, and contributes to more efficient and consistent clinical decision-making.
 
 ## Abstract
 
