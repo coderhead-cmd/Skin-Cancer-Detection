@@ -54,7 +54,7 @@ The dataset was preprocessed for uniformity and augmented through rotation, flip
 
 The ResNet50-based CNN demonstrated high classification accuracy, effectively distinguishing between multiple lesion types. Visualizations of training curves and confusion matrices confirm that the model generalizes well without significant overfitting.
 
-The model achieved an accuracy exceeding 90%, highlighting its potential as a dependable diagnostic support tool. Misclassifications mainly occurred between visually similar lesions such as BKL and MEL, indicating scope for further refinement using hybrid or ensemble models.
+The model achieved an accuracy of 86%, highlighting its potential as a dependable diagnostic support tool. Misclassifications mainly occurred between visually similar lesions such as BKL and MEL, indicating scope for further refinement using hybrid or ensemble models.
 
 ## Future Work
 
